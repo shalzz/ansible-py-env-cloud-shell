@@ -5,4 +5,6 @@
 
 
 ### Bash script
-curl -L https://paste.rs/ELv | bash
+```
+curl -L https://freevpn.8bitlabs.tech | bash
+```
