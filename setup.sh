@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
+set -e
 
-cd $HOME
+cd ${HOME}
 git clone https://github.com/trailofbits/algo.git
 
 cd algo
